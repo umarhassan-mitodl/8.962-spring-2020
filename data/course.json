@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ]
+  ],
+  "legacy_uid": "48f9afee-be18-7a87-cda4-152c9e8422d4",
+  "instructors": {
+    "content": [
+      "239d3f09-230f-0e30-4255-cc85fa68b8c0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "45024191-6ecf-acb4-b981-0cf958762651",
+    "website": "8-962-general-relativity-spring-2020"
+  },
+  "course_title": "General Relativity",
+  "course_description": "8.962 is MIT's graduate course in general relativity, which covers the basic principles of Einstein's general theory of relativity, differential geometry, experimental tests of general relativity, black holes, and cosmology.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.962",
+  "course_image_thumbnail": {
+    "content": "d40b8ce4-56eb-ec18-6eb1-0b24be6e9f52",
+    "website": "8-962-general-relativity-spring-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets"
+  ],
+  "site_uid": "98199016-a285-449d-b10b-430d3985a3c7",
+  "site_short_id": "8.962-spring-2020",
+  "site_url_path": "courses/8-962-general-relativity-spring-2020",
+  "title": "Course Metadata"
+}
