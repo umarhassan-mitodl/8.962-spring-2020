@@ -4,6 +4,8 @@ description: ''
 file: /courses/8-962-general-relativity-spring-2020/1834219200f6799c5fa91ccd31f3bcab_h9xaoGkyHwg.pdf
 file_size: 95919
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

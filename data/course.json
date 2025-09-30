@@ -23,6 +23,7 @@
     "website": "8-962-general-relativity-spring-2020"
   },
   "course_title": "General Relativity",
+  "hide_download": true,
   "course_description": "8.962 is MIT's graduate course in general relativity, which covers the basic principles of Einstein's general theory of relativity, differential geometry, experimental tests of general relativity, black holes, and cosmology.\n",
   "department_numbers": [
     "8"
@@ -33,6 +34,7 @@
     "content": "d40b8ce4-56eb-ec18-6eb1-0b24be6e9f52",
     "website": "8-962-general-relativity-spring-2020"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets"

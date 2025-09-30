@@ -4,6 +4,8 @@ description: ''
 file: /courses/8-962-general-relativity-spring-2020/924cce621da2d5d7dea45eeef81a5c91_MIT8_962S20_pset03_hint.pdf
 file_size: 108123
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
